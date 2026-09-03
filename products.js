@@ -100,7 +100,7 @@ export const products = [
 
   {
     id: 13,
-    name: "生ビール<br>（グラス）",
+    name: "生ビール（グラス）",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -108,7 +108,7 @@ export const products = [
 
   {
     id: 14,
-    name: "生ビール<br>（瓶ビール）",
+    name: "生ビール（瓶ビール）",
     price: 600,
     category: "bi-ru/osake",
     description: ""
@@ -116,7 +116,7 @@ export const products = [
 
   {
     id: 15,
-    name: "生ビール<br>（ノンアルコールビール）",
+    name: "生ビール（ノンアルコールビール）",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -124,7 +124,7 @@ export const products = [
 
   {
     id: 16,
-    name: "日本酒<br>（冷や）1合",
+    name: "日本酒（冷や）1合",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -132,7 +132,7 @@ export const products = [
 
   {
     id: 17,
-    name: "日本酒<br>（熱燗）1合",
+    name: "日本酒（熱燗）1合",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -156,7 +156,7 @@ export const products = [
 
   {
     id: 20,
-    name: "ワイン<br>（赤・ボトル）",
+    name: "ワイン（赤・ボトル）",
     price: 3000,
     category: "bi-ru/osake",
     description: ""
@@ -164,7 +164,7 @@ export const products = [
 
   {
     id: 21,
-    name: "ワイン<br>（赤・グラス）",
+    name: "ワイン（赤・グラス）",
     price: 600,
     category: "bi-ru/osake",
     description: ""
@@ -172,7 +172,7 @@ export const products = [
 
   {
     id: 22,
-    name: "ワイン<br>（白・ボトル）",
+    name: "ワイン（白・ボトル）",
     price: 3000,
     category: "bi-ru/osake",
     description: ""
@@ -180,7 +180,7 @@ export const products = [
 
   {
     id: 23,
-    name: "ワイン<br>（白・グラス）",
+    name: "ワイン（白・グラス）",
     price: 600,
     category: "bi-ru/osake",
     description: ""
@@ -308,7 +308,7 @@ export const products = [
 
   {
     id: 39,
-    name: "サワー<br>（ストロベリー）",
+    name: "サワー（ストロベリー）",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -324,7 +324,7 @@ export const products = [
 
   {
     id: 41,
-    name: "サワー<br>（ブルーハワイ）",
+    name: "サワー（ブルーハワイ）",
     price: 500,
     category: "bi-ru/osake",
     description: ""
@@ -332,7 +332,7 @@ export const products = [
 
   {
     id: 42,
-    name: "大人のクリームソーダ<br>（ストロベリー）",
+    name: "大人のクリームソーダ（ストロベリー）",
     price: 800,
     category: "bi-ru/osake",
     description: ""
@@ -340,7 +340,7 @@ export const products = [
 
   {
     id: 43,
-    name: "大人のクリームソーダ<br>（メロン）",
+    name: "大人のクリームソーダ（メロン）",
     price: 800,
     category: "bi-ru/osake",
     description: ""
@@ -348,290 +348,290 @@ export const products = [
 
   {
     id: 44,
-    name: "大人のクリームソーダ<>br（ブルーハワイ）",
+    name: "大人のクリームソーダ（ブルーハワイ）",
     price: 800,
     category: "bi-ru/osake",
     description: ""
   },
-  
+
   {
-  id: 45,
-  name: "冷奴",
-  price: 300,
-  category: "torima",
-  description: ""
-},
+    id: 45,
+    name: "冷奴",
+    price: 300,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 46,
-  name: "枝豆",
-  price: 350,
-  category: "torima",
-  description: ""
-},
+  {
+    id: 46,
+    name: "枝豆",
+    price: 350,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 47,
-  name: "漬物",
-  price: 350,
-  category: "torima",
-  description: ""
-},
+  {
+    id: 47,
+    name: "漬物",
+    price: 350,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 48,
-  name: "フライドポテト",
-  price: 450,
-  category: "torima",
-  description: ""
-},
+  {
+    id: 48,
+    name: "フライドポテト",
+    price: 450,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 49,
-  name: "チーズ盛り合わせ",
-  price: 500,
-  category: "torima",
-  description: ""
-},
+  {
+    id: 49,
+    name: "チーズ盛り合わせ",
+    price: 500,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 50,
-  name: "チーズスティック",
-  price: 600,
-  category: "torima",
-  description: ""
-},
+  {
+    id: 50,
+    name: "チーズスティック",
+    price: 600,
+    category: "torima",
+    description: ""
+  },
 
-{
-  id: 51,
-  name: "だし巻きたまご",
-  price: 650,
-  category: "ippin",
-  description: ""
-},
+  {
+    id: 51,
+    name: "だし巻きたまご",
+    price: 650,
+    category: "ippin",
+    description: ""
+  },
 
-{
-  id: 52,
-  name: "イカバター",
-  price: 800,
-  category: "ippin",
-  description: ""
-},
+  {
+    id: 52,
+    name: "イカバター",
+    price: 800,
+    category: "ippin",
+    description: ""
+  },
 
-{
-  id: 53,
-  name: "海老マヨ",
-  price: 1200,
-  category: "ippin",
-  description: ""
-},
+  {
+    id: 53,
+    name: "海老マヨ",
+    price: 1200,
+    category: "ippin",
+    description: ""
+  },
 
-{
-  id: 54,
-  name: "海老チリ",
-  price: 1200,
-  category: "ippin",
-  description: ""
-},
+  {
+    id: 54,
+    name: "海老チリ",
+    price: 1200,
+    category: "ippin",
+    description: ""
+  },
 
-{
-  id: 55,
-  name: "魚の塩焼き",
-  price: 660,
-  category: "yakimono",
-  description: ""
-},
+  {
+    id: 55,
+    name: "魚の塩焼き",
+    price: 660,
+    category: "yakimono",
+    description: ""
+  },
 
-{
-  id: 56,
-  name: "イカバター",
-  price: 700,
-  category: "yakimono",
-  description: ""
-},
+  {
+    id: 56,
+    name: "イカバター",
+    price: 700,
+    category: "yakimono",
+    description: ""
+  },
 
-{
-  id: 57,
-  name: "刺身3種盛り",
-  price: 1200,
-  category: "sashimi",
-  description: ""
-},
+  {
+    id: 57,
+    name: "刺身3種盛り",
+    price: 1200,
+    category: "sashimi",
+    description: ""
+  },
 
-{
-  id: 58,
-  name: "鯨刺し",
-  price: 2000,
-  category: "sashimi",
-  description: ""
-},
+  {
+    id: 58,
+    name: "鯨刺し",
+    price: 2000,
+    category: "sashimi",
+    description: ""
+  },
 
-{
-  id: 59,
-  name: "鯨と刺身盛り合わせ",
-  price: 2600,
-  category: "sashimi",
-  description: ""
-},
+  {
+    id: 59,
+    name: "鯨と刺身盛り合わせ",
+    price: 2600,
+    category: "sashimi",
+    description: ""
+  },
 
-{
-  id: 60,
-  name: "鯵のすり身揚げ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 60,
+    name: "鯵のすり身揚げ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 61,
-  name: "白身魚のすり身揚げ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 61,
+    name: "白身魚のすり身揚げ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 62,
-  name: "魚の竜田揚げ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 62,
+    name: "魚の竜田揚げ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 63,
-  name: "鯵フライ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 63,
+    name: "鯵フライ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 64,
-  name: "海老フライ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 64,
+    name: "海老フライ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 65,
-  name: "鳥モモ肉唐揚げ",
-  price: 850,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 65,
+    name: "鳥モモ肉唐揚げ",
+    price: 850,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 66,
-  name: "豚カツ",
-  price: 500,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 66,
+    name: "豚カツ",
+    price: 500,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 67,
-  name: "天ぷら盛り合わせ",
-  price: 1000,
-  category: "agemono",
-  description: ""
-},
+  {
+    id: 67,
+    name: "天ぷら盛り合わせ",
+    price: 1000,
+    category: "agemono",
+    description: ""
+  },
 
-{
-  id: 68,
-  name: "野菜サラダ",
-  price: 700,
-  category: "sarada",
-  description: ""
-},
+  {
+    id: 68,
+    name: "野菜サラダ",
+    price: 700,
+    category: "sarada",
+    description: ""
+  },
 
-{
-  id: 69,
-  name: "豚の冷しゃぶサラダ",
-  price: 800,
-  category: "sarada",
-  description: ""
-},
+  {
+    id: 69,
+    name: "豚の冷しゃぶサラダ",
+    price: 800,
+    category: "sarada",
+    description: ""
+  },
 
-{
-  id: 70,
-  name: "シーザーサラダ",
-  price: 700,
-  category: "sarada",
-  description: ""
-},
+  {
+    id: 70,
+    name: "シーザーサラダ",
+    price: 700,
+    category: "sarada",
+    description: ""
+  },
 
-{
-  id: 71,
-  name: "鯵フライ定食<br>4枚",
-  price: 1000,
-  category: "noon",
-  description: "鯵フライが“4枚“ついてきます。枚数にご注意ください。"
-},
+  {
+    id: 71,
+    name: "鯵フライ定食 4枚",
+    price: 1000,
+    category: "noon",
+    description: "鯵フライが“4枚“ついてきます。枚数にご注意ください。"
+  },
 
-{
-  id: 72,
-  name: "鯵フライ定食<br>3枚",
-  price: 900,
-  category: "noon",
-  description: "鯵フライが“3枚”ついてきます。枚数にご注意ください。"
-},
+  {
+    id: 72,
+    name: "鯵フライ定食 3枚",
+    price: 900,
+    category: "noon",
+    description: "鯵フライが“3枚”ついてきます。枚数にご注意ください。"
+  },
 
-{
-  id: 72,
-  name: "海老フライ定食",
-  price: 1000,
-  category: "noon",
-  description: ""
-},
+  {
+    id: 72,
+    name: "海老フライ定食",
+    price: 1000,
+    category: "noon",
+    description: ""
+  },
 
-{
-  id: 73,
-  name: "とんかつ定食",
-  price: 1000,
-  category: "noon",
-  description: ""
-},
+  {
+    id: 73,
+    name: "とんかつ定食",
+    price: 1000,
+    category: "noon",
+    description: ""
+  },
 
-{
-  id: 74,
-  name: "日替わり定食",
-  price: 1000,
-  category: "noon",
-  description: "ご飯大盛りはプラス100円で承ります。<br>ご飯のおかわりは一番下の【昼の部｜定食お代わり】にてご注文ください。"
-},
+  {
+    id: 74,
+    name: "日替わり定食",
+    price: 1000,
+    category: "noon",
+    description: "ご飯大盛りはプラス100円で承ります。<br>ご飯のおかわりは一番下の【昼の部｜定食お代わり】にてご注文ください。"
+  },
 
-{
-  id: 75,
-  name: "ちゃんぽん",
-  price: 1000,
-  category: "noon",
-  description: ""
-},
+  {
+    id: 75,
+    name: "ちゃんぽん",
+    price: 1000,
+    category: "noon",
+    description: ""
+  },
 
-{
-  id: 76,
-  name: "皿うどん",
-  price: 1000,
-  category: "noon",
-  description: ""
-},
+  {
+    id: 76,
+    name: "皿うどん",
+    price: 1000,
+    category: "noon",
+    description: ""
+  },
 
-{
-  id: 77,
-  name: "焼きそば",
-  price: 1000,
-  category: "noon",
-  description: ""
-},
+  {
+    id: 77,
+    name: "焼きそば",
+    price: 1000,
+    category: "noon",
+    description: ""
+  },
 
-{
-  id: 78,
-  name: "昼の部｜定食お代わり",
-  price: 100,
-  category: "noon",
-  description: ""
-}
+  {
+    id: 78,
+    name: "昼の部｜定食お代わり",
+    price: 100,
+    category: "noon",
+    description: ""
+  }
 
 ];
